@@ -18,13 +18,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/amandeep-singh-18048522a/" >
+  <a href="https://www.linkedin.com/in/rohit-sharma-0a7a6b235/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/angryaman007?igsh=Y2lhbzhyamIzMm5p" >
+  <a href="https://www.instagram.com/rohitsharma0716/?next=%2F" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://youtube.com/@amansarcade?si=FJQeyaU1AFLONVkF" >
+  <a href="https://youtube.com" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
   </a>
 </div>
@@ -90,8 +90,8 @@
 
 ###
 <div align="center">
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=rohitsharma716&show_icons=true&locale=en" alt="Angryaman007" /></p>
-<img src="https://streak-stats.demolab.com?user=Angryaman007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=rohitsharma716&show_icons=true&locale=en" alt="rohitsharma" /></p>
+<img src="https://streak-stats.demolab.com?user=rohitsharma716&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
